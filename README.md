@@ -18,4 +18,4 @@ Province/State,Country/Region,Lat,Long,Confirmed cases
 
 ### To note
 
-For now there is no override file for deaths, and active case
+For now there is no override file for deaths, and active cases
